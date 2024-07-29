@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notcoin-widget/static/css/main.97f61a3a.css",
+    "main.js": "/notcoin-widget/static/js/main.a55cd8ca.js",
+    "static/js/453.c82be313.chunk.js": "/notcoin-widget/static/js/453.c82be313.chunk.js",
+    "index.html": "/notcoin-widget/index.html",
+    "main.97f61a3a.css.map": "/notcoin-widget/static/css/main.97f61a3a.css.map",
+    "main.a55cd8ca.js.map": "/notcoin-widget/static/js/main.a55cd8ca.js.map",
+    "453.c82be313.chunk.js.map": "/notcoin-widget/static/js/453.c82be313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f61a3a.css",
+    "static/js/main.a55cd8ca.js"
+  ]
+}
